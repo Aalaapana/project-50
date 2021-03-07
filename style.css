@@ -1,0 +1,69 @@
+.Intro{
+    background-color:black ;
+    color : white
+    
+
+}
+.Intro2{
+    background-color:black ;
+    color : white
+    
+
+}
+
+.menu{
+    display:flex;
+    flex-flow: row;
+    justify-content: space-evenly
+}
+
+.menu2{
+    display:flex;
+    flex-flow: row;
+    justify-content: space-evenly
+}
+
+.menu3{ 
+    display:flex;
+    flex-flow: row;
+    justify-content: space-evenly 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
